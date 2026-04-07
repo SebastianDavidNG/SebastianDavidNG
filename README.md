@@ -8,11 +8,11 @@ I specialize in **React, Vue.js, JavaScript (ES6+), Tailwind CSS, and GSAP**, wi
 
 ## What I bring
 
-- Production-ready frontends with clean architecture and strong UX focus  
-- Responsive, accessible, and performance-oriented interfaces  
-- CMS delivery: WordPress and Drupal (custom themes, plugins, Gutenberg blocks, theming, modules)  
-- Faster delivery using **Spec-Driven Development** + **AI-assisted workflows**  
-- Remote collaboration with design, QA, and stakeholders  
+- Production-ready frontends with clean architecture and strong UX focus
+- Responsive, accessible, and performance-oriented interfaces
+- CMS delivery: WordPress and Drupal (custom themes, plugins, Gutenberg blocks, theming, modules)
+- Faster delivery using **Spec-Driven Development** + **AI-assisted workflows**
+- Effective remote collaboration with design, QA, and stakeholders
 
 ---
 
@@ -27,59 +27,54 @@ I specialize in **React, Vue.js, JavaScript (ES6+), Tailwind CSS, and GSAP**, wi
 
 ---
 
-## Pinned repositories
-
-| Focus | Repository | One-line description |
-| --- | --- | --- |
-| **React + realtime + AI** | [`job-interview-model`](https://github.com/SebastianDavidNG/job-interview-model) | Real-time AI interview copilot: React, TypeScript, Socket.IO, Node.js, Groq. |
-| **React + portfolio** | [`portafolio-2026`](https://github.com/SebastianDavidNG/portafolio-2026) | Personal React + TypeScript portfolio: architecture, UX, modern web practices. |
-| **React** | [`revelo-project`](https://github.com/SebastianDavidNG/revelo-project) | Frontend work: reusable UI, responsive layouts, production-ready React workflows. |
-| **Astro** | [`astro-portfolio`](https://github.com/SebastianDavidNG/astro-portfolio) | Fast portfolio with Astro: performance, SEO, clean component structure. |
-| **WordPress** | [`system-cars-site`](https://github.com/SebastianDavidNG/system-cars-site) | WordPress/PHP site: custom frontend, responsive design, CMS-driven content. |
-| **WordPress** | [`centinela-group`](https://github.com/SebastianDavidNG/centinela-group) | Business site: WordPress/PHP, tailored sections, maintainable content workflows. |
-
-> **Tip:** En GitHub, fija estos repos en el orden de la tabla (arriba → abajo) para que recruiters vean primero React + impacto técnico, luego variedad (Astro, WordPress).
-
----
-
-## Featured project
+## Featured projects
 
 ### InterviewPilot — [`job-interview-model`](https://github.com/SebastianDavidNG/job-interview-model)
-
-Real-time AI interview copilot: transcribes conversation and suggests context-aware guidance using job description and candidate profile.
+Real-time AI interview copilot that transcribes conversations and generates context-aware guidance.
 
 **Stack:** React, TypeScript, Vite, Node.js, Express, Socket.IO, Groq API  
-
 **Highlights:**
-- Multi-screen flow (`setup`, `session`, `viewer`)  
-- Real-time sync and state-driven UI  
-- Browser speech + backend AI orchestration  
+- Multi-screen flow (`setup`, `session`, `viewer`)
+- Real-time sync and state-driven UI
+- Browser speech + backend AI orchestration
+
+### React Portfolio — [`portafolio-2026`](https://github.com/SebastianDavidNG/portafolio-2026)
+Personal React + TypeScript portfolio focused on clean UI architecture and modern frontend delivery.
+
+### Frontend Product Work — [`revelo-project`](https://github.com/SebastianDavidNG/revelo-project)
+Reusable UI, responsive layouts, and production-ready React workflows.
+
+### Astro Portfolio — [`astro-portfolio`](https://github.com/SebastianDavidNG/astro-portfolio)
+Performance-first portfolio built with Astro, emphasizing speed and SEO.
+
+### CMS Work — [`system-cars-site`](https://github.com/SebastianDavidNG/system-cars-site), [`centinela-group`](https://github.com/SebastianDavidNG/centinela-group)
+Business websites delivered with WordPress/PHP and maintainable CMS-driven content workflows.
 
 ---
 
-## Professional experience (snapshot)
+## Professional experience snapshot
 
-- **10+ years** in front-end and web development  
-- Work with global brands including **Motorola, Cisco, Zebra, Choice Hotels**  
-- Agency and **remote-first** environments  
-- Focus on **maintainable code**, performance, accessibility, and business-aligned delivery  
+- **10+ years** in front-end and web development
+- Delivered projects for global brands including **Motorola, Cisco, Zebra, and Choice Hotels**
+- Strong experience in agency and remote-first environments
+- Focus on maintainable code, performance, accessibility, and business-aligned outcomes
 
 ---
 
 ## Current focus
 
-- Advanced **React / TypeScript** architecture  
-- **AI-enhanced** engineering workflows  
-- Performance, testing (e.g. Playwright), and scalable **CMS ↔ frontend** integration  
+- Advanced **React / TypeScript** architecture
+- **AI-enhanced** engineering workflows
+- Frontend performance, testing, and scalable CMS-to-frontend integration
 
 ---
 
 ## Contact
 
-- **Email:** `sebastiandavidn@gmail.com`  
-- **LinkedIn:** [linkedin.com/in/sebastiandavidninog](https://www.linkedin.com/in/sebastiandavidninog/)  
-- **Portfolio:** [sebastiandng.com](https://sebastiandng.com)  
+- **Email:** `sebastiandavidn@gmail.com`
+- **LinkedIn:** [linkedin.com/in/sebastiandavidninog](https://www.linkedin.com/in/sebastiandavidninog/)
+- **Portfolio:** [sebastiandng.com](https://sebastiandng.com)
 
 ---
 
-*This profile README is for portfolio and professional visibility. Repository usage terms may vary per project — see each repo’s `README` and `LICENSE` where applicable.*
+*This profile README is for portfolio and professional visibility. Repository usage terms may vary per project — see each repository’s `README` and `LICENSE` where applicable.*
